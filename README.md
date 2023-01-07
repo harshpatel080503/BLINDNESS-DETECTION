@@ -12,4 +12,3 @@ Tools:-Jupyter Notebook
 Dataset:-test.csv , train.csv , blindness_Detection.csv , submission.csv
 
 Accuracy:-90%
-
